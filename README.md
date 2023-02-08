@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Snake Game with Rust
+This program is still buggy. I tried to implement a snake game with Rust.
 
 ## References
 
